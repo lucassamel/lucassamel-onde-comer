@@ -5,19 +5,19 @@
     "url":"https://d701vexhkz032.cloudfront.net/bundles/front/media/images/favicons/favicon-512.png",
     "text":"Hamburguers"
   },{
-    "id":1,
-    "title": "Mc Donalds",
-    "url":"https://d701vexhkz032.cloudfront.net/bundles/front/media/images/favicons/favicon-512.png",
+    "id":2,
+    "title": "Burger King",
+    "url":"https://upload.wikimedia.org/wikipedia/pt/thumb/c/cf/Logotipo_do_Burger_King.svg/1200px-Logotipo_do_Burger_King.svg.png",
     "text":"Hamburguers"
   },
   {
-    "id":1,
-    "title": "Mc Donalds",
+    "id":3,
+    "title": "O Japa",
     "url":"https://d701vexhkz032.cloudfront.net/bundles/front/media/images/favicons/favicon-512.png",
-    "text":"Hamburguers"
+    "text":"Comida Japonesa"
   },
   {
-    "id":1,
+    "id":4,
     "title": "Mc Donalds",
     "url":"https://d701vexhkz032.cloudfront.net/bundles/front/media/images/favicons/favicon-512.png",
     "text":"Hamburguers"
